@@ -1,6 +1,9 @@
 # smartmyhome_React
 리액트와 spring boot로 구축한 스마트 홈 
 
+## 작동영상 
+https://www.youtube.com/watch?v=15b3wTSUqrw&feature=youtu.be
+
 ## 1. 개요 
 ### 1.1 프로젝트 목적
  - 가정에서 사용할 수 있는 편의성을 제공하는 스마트 홈 
